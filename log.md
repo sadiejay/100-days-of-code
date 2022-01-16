@@ -46,17 +46,34 @@ Trying not to overwhelm myself. I need to pace myself!!
 **Links:** 
 - [100 Days of Code & Scrum Series' Articles by Rammina on dev.to](https://dev.to/rammina/series/14990) - Helped me formulate a structure for my daily logs and weekly goals
 
-<!-- ### Day 5: 16 Jan 2022
-**Yesterday recap:** 
+### Day 5: 16 Jan 2022
+**Yesterday recap:**
+
 A whole bunch of set up for #100daysofcode. Including:
     - dev.to post
-    - forking this repo
-I also worked on the freeCodeCamp Javascript Cert
+    - forking thAlgorithms and Data Structuresis repo
+I also worked on the freeCodeCamp JS Algo and D.S Cert
+Commented on Rammina's #100daysofcode post.
 
-**Today's plans:** 
+<br>
+
+
+**Today's plans:**
+
+Work on the JS Cert with fCC
+Start RWD project for fCC
+Check out the #100daysofcode tag on dev.to
+Play around with my open source issue
+
+<br>
 
 
 **Struggles:** 
 
-**Links:**  -->
+JS is kicking my behind. The switch operator lesson in the cert made no sense. I had to check the hint and see others struggling and saying the same thing. So I felt a lil better. But I am shaken. 2 days in a row. I'm going to make a post about it.
+
+<br>
+
+
+**Links:** 
 
