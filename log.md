@@ -1,30 +1,62 @@
 # 100 Days Of Code - Log
+<br>
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1 - 4: 11 - 15 Jan 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<br>
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**10 day Sprint Goals:**
 
-**Link to work:** [Calculator App](http://www.example.com)
+- Finish Basic Javascript module with freeCodeCamp's JS Algorithms and Data Structures Cert
+- Finish non-project modules of Responsive Web Design Cert
+- Start projet modules of RWD cert
+- Complete js module in my bootcamp 
+- Update favicon for portfolio site
+- Write weekly recap on dev.to
+- Make an open source contribution
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+<br>
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Yesterday recap:** 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I did a whole bunch of set up for #100daysofcode.
+Including:
+- dev.to posts
+- checking out the site
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+I also worked on the freeCodeCamp Javascript Cert and RWD cert
+Minor changes to my portfolio site
+
+<br>
+
+**Today's plans:**
+
+I'm continuing with freeCodeCamp's JS cert. I figured out how to make a golf nickname calculator with par and stroke inputs! 
+
+<br>
+
+**Struggles:** 
+
+Trying not to overwhelm myself. I need to pace myself!!
+
+- I wrote out my goals in my [#100daysofcode intro dev.to post](https://dev.to/sadiejay/100-days-of-code-4ag4)
+
+<br>
+
+**Links:** 
+- [100 Days of Code & Scrum Series' Articles by Rammina on dev.to](https://dev.to/rammina/series/14990) - Helped me formulate a structure for my daily logs and weekly goals
+
+<!-- ### Day 5: 16 Jan 2022
+**Yesterday recap:** 
+A whole bunch of set up for #100daysofcode. Including:
+    - dev.to post
+    - forking this repo
+I also worked on the freeCodeCamp Javascript Cert
+
+**Today's plans:** 
 
 
-### Day 1: June 27, Monday
+**Struggles:** 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Links:**  -->
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
