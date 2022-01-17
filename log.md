@@ -76,4 +76,4 @@ JS is kicking my behind. The switch operator lesson in the cert made no sense. I
 
 
 **Links:** 
-
+[Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) - got the skeleton done. Gonna laid down the CSS this week. Looking forward to using `overscroll-behavior`.
