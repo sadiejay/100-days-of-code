@@ -121,3 +121,38 @@ This is a roller coaster. I'm struggling with objects again lol I'm gonna give l
 
 **Links:** 
 - [Exercism](https://exercism.org/tracks/javascript/) - Checked out this site for more js practice!
+<br>
+<br>
+<br>
+
+### Day 7: 18 Jan 2022
+**Yesterday recap:**
+
+Struggled with fCC JS task
+    - made it to week 2 tho!
+
+<br>
+
+
+**Today's plans:**
+
+Comment on my open source issue
+Work on the JS Cert with fCC (but not all day!)
+Make progress on one RWD project for fCC
+Check out the #100daysofcode tag on dev.to
+
+<br>
+
+
+**Struggles:** 
+
+
+
+<br>
+
+**Thoughts:**
+
+
+
+**Links:** 
+
