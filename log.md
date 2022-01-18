@@ -46,6 +46,10 @@ Trying not to overwhelm myself. I need to pace myself!!
 **Links:** 
 - [100 Days of Code & Scrum Series' Articles by Rammina on dev.to](https://dev.to/rammina/series/14990) - Helped me formulate a structure for my daily logs and weekly goals
 
+<br>
+<br>
+<br>
+
 ### Day 5: 16 Jan 2022
 **Yesterday recap:**
 
@@ -76,7 +80,7 @@ JS is kicking my behind. The switch operator lesson in the cert made no sense. I
 
 
 **Links:** 
-[Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) - got the skeleton done. Gonna laid down the CSS this week. Looking forward to using `overscroll-behavior`.
+- [Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) - got the skeleton done. Gonna laid down the CSS this week. Looking forward to using `overscroll-behavior`.
 
 <br>
 <br>
@@ -116,4 +120,4 @@ This is a roller coaster. I'm struggling with objects again lol I'm gonna give l
 
 
 **Links:** 
-[Exercism](https://exercism.org/tracks/javascript/) - Checked out this site for more js practice!
+- [Exercism](https://exercism.org/tracks/javascript/) - Checked out this site for more js practice!
