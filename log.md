@@ -77,3 +77,43 @@ JS is kicking my behind. The switch operator lesson in the cert made no sense. I
 
 **Links:** 
 [Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) - got the skeleton done. Gonna laid down the CSS this week. Looking forward to using `overscroll-behavior`.
+
+<br>
+<br>
+<br>
+
+### Day 6: 17 Jan 2022
+**Yesterday recap:**
+
+Started on fCC RWD project
+Tinkered with open source project in browser
+Commented on fellow #100daysofcode post.
+Questioned whether or not I wanted to dive into JS like this.
+
+<br>
+
+
+**Today's plans:**
+
+Work on the JS Cert with fCC
+    - be ready for week 2 of bootcamp
+Complete one RWD project for fCC
+Check out the #100daysofcode tag on dev.to
+Play around with my open source issue
+
+<br>
+
+
+**Struggles:** 
+
+Time management is now a concern. I worked on the fCC JS course all day. I'm not feeling too well so I wasn't on top of my time management game.
+
+<br>
+
+**Thoughts:**
+
+This is a roller coaster. I'm struggling with objects again lol I'm gonna give less time to the fCC course tomorrow and dive into my open source issue.exercism
+
+
+**Links:** 
+[Exercism](https://exercism.org/tracks/javascript/) - Checked out this site for more js practice!
