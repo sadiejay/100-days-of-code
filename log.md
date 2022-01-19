@@ -145,14 +145,14 @@ Check out the #100daysofcode tag on dev.to
 
 
 **Struggles:** 
-
+My open source issue is down on gitlab and I'm not sure if I should say something? I think I'll check again tomorrow and if it's still not working I'll reach out. I'll work on a RWD project for now.
 
 
 <br>
 
 **Thoughts:**
-
+I took it easy today. After yesterday I could use a break from going so hard in the code. I at least figured out what the issue was and had help from the community. That felt good.
 
 
 **Links:** 
-
+[I turned GitHub into my own Billboard by Thomas Harris on dev.to](https://dev.to/lodenh16/i-turned-github-into-my-own-billboard-3m10) - I read this post this morning and was blown away by the ability people have! This was so inspiring!
