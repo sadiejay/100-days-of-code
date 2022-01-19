@@ -151,7 +151,7 @@ My open source issue is down on gitlab and I'm not sure if I should say somethin
 <br>
 
 **Thoughts:**
-I took it easy today. After yesterday I could use a break from going so hard in the code. I at least figured out what the issue was and had help from the community. That felt good.
+I took it easy today. After yesterday I could use a break from going so hard in the code. I at least figured out what the issue was in the lesson I struggled with all day, and had help from the community. That felt good.
 
 
 **Links:** 
