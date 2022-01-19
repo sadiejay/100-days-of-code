@@ -156,3 +156,37 @@ I took it easy today. After yesterday I could use a break from going so hard in 
 
 **Links:** 
 [I turned GitHub into my own Billboard by Thomas Harris on dev.to](https://dev.to/lodenh16/i-turned-github-into-my-own-billboard-3m10) - I read this post this morning and was blown away by the ability people have! This was so inspiring!
+<br>
+<br>
+<br>
+
+### Day 8: 19 Jan 2022
+**Yesterday recap:**
+
+Completed fCC task that gave me trouble
+Tried to tinked on open source issue, but it was experiencing a bug
+
+<br>
+
+
+**Today's plans:**
+
+Comment on my open source issue
+Change og info portfolio site to show different fav icon/sm photo
+Figure out how to get commits into my contribution graph
+Draft up a couple of DEV.to articles
+    - my favorite keyboard shortcuts
+    - my hacktoberfest experience
+
+<br>
+
+
+**Struggles:** 
+
+<br>
+
+**Thoughts:**
+
+
+**Links:** 
+
