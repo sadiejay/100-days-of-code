@@ -182,11 +182,12 @@ Draft up a couple of DEV.to articles
 
 
 **Struggles:** 
+Understanding when to say "Hey something's wrong" on my open source issue. I didn't want to add fuel to the fire, but I also don't want to withhold info. 
 
 <br>
 
 **Thoughts:**
-
+I'm realizing that my experience contributing to open source projects was really valuable. I'm gonna talk that up.
 
 **Links:** 
-
+[My portfolio site](https://github.com/sadiejay/portfolio) - Updated the `og:image` property on my site so the social link isn't a huge 👩🏾‍💻 emoji lol
