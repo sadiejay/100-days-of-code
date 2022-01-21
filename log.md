@@ -191,3 +191,39 @@ I'm realizing that my experience contributing to open source projects was really
 
 **Links:** 
 [My portfolio site](https://github.com/sadiejay/portfolio) - Updated the `og:image` property on my site so the social link isn't a huge 👩🏾‍💻 emoji lol
+<br>
+<br>
+<br>
+
+### Day 9: 20 Jan 2022
+**Yesterday recap:**
+
+Commented on my open source issue
+Updated my portfolio
+
+<br>
+
+
+**Today's plans:**
+
+Test on my open source issue
+Figure out how to get commits into my contribution graph
+Work on JS cert
+
+
+<br>
+
+
+**Struggles:** 
+
+Now I'm stuggling to manage timing a "hey I need some help," response haha. I'm trying to make a footer stick to the bottom of a page. My solution works when the height is signifigantly taller than the width. However, when the width is wider than the height (ex. mobile screens in landscape mode) the footer blocks content on the screen. I think, I'm almost positive there's a way to write a media query that'll style accordingly, but that's over my head at the moment. It's all part of the learning experience tho.
+
+<br>
+
+**Thoughts:**
+
+I've made it to loops in my JS cert and I'm playing around with `push` / `unshift`. I can make an array list even and odd numbers backwards using a simple loop, with either method, and it makes me happy.
+
+<br>
+
+
