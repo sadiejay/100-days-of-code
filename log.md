@@ -227,3 +227,33 @@ I've made it to loops in my JS cert and I'm playing around with `push` / `unshif
 <br>
 
 
+### Day 10: 21 Jan 2022
+**Yesterday recap:**
+
+Test on my open source issue
+Figure out how to get commits into my contribution graph
+Work on JS cert
+
+<br>
+
+
+**Today's plans:**
+
+Talk to someone in my network about their role and job applying experience.
+
+
+
+<br>
+
+
+**Struggles:** 
+
+
+
+<br>
+
+**Thoughts:**
+
+<br>
+
+
