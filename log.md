@@ -259,7 +259,7 @@ I was really happy to have had talked with a dev in my network. I'm really inspi
 <br>
 
 
-### Day 10: 21 Jan 2022
+### Day 11: 22 Jan 2022
 **Yesterday recap:**
 
 Reached out to dev in my network
