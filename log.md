@@ -285,4 +285,32 @@ Not really struggling right now. I'm happy to have made my lil change and keep t
 Enjoy the weekend!
 Hope the fork detaches soon!
 <br>
+<br>
+<br>
+
+
+### Day 11: 22 Jan 2022
+**Yesterday recap:**
+
+Updated description on portfolio
+
+<br>
+
+
+**Today's plans:**
+Make one change and relax
+
+
+<br>
+
+
+**Struggles:** 
+
+
+
+<br>
+
+**Thoughts:**
+
+<br>
 
