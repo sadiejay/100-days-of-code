@@ -247,13 +247,13 @@ Talk to someone in my network about their role and job applying experience.
 
 
 **Struggles:** 
-
+I'm feeling a little bad that I'm not going to be able to do as much on the weekends but I'm also ok about that too. I need to manage how much time I do this and have a life.
 
 
 <br>
 
 **Thoughts:**
-
+I was really happy to have had talked with a dev in my network. I'm really inspired to start the job hunt and I feel less presure to "know everything".
 <br>
-
-
+<br>
+<br>
