@@ -284,6 +284,13 @@ Not really struggling right now. I'm happy to have made my lil change and keep t
 **Thoughts:**
 Enjoy the weekend!
 Hope the fork detaches soon!
+
+<br>
+
+**Links:** 
+
+[My portfolio site](https://github.com/sadiejay/portfolio) - Updated the `meta: description` property on my site so the content matches the message about me I want to communicate.
+
 <br>
 <br>
 <br>
