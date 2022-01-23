@@ -257,3 +257,32 @@ I was really happy to have had talked with a dev in my network. I'm really inspi
 <br>
 <br>
 <br>
+
+
+### Day 10: 21 Jan 2022
+**Yesterday recap:**
+
+Reached out to dev in my network
+Work on JS cert
+
+<br>
+
+
+**Today's plans:**
+Make one change and relax
+
+
+<br>
+
+
+**Struggles:** 
+Not really struggling right now. I'm happy to have made my lil change and keep today about life outside of the computer
+
+
+<br>
+
+**Thoughts:**
+Enjoy the weekend!
+Hope the fork detaches soon!
+<br>
+
