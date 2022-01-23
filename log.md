@@ -296,7 +296,7 @@ Hope the fork detaches soon!
 <br>
 
 
-### Day 11: 22 Jan 2022
+### Day 12: 23 Jan 2022
 **Yesterday recap:**
 
 Updated description on portfolio
@@ -321,3 +321,5 @@ Make one change and relax
 
 <br>
 
+**Links:** 
+- [Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) - Added `id`s per test requirements. It was uncomfortable adding special characters in the names of the `id`s. I honestly thought you couldn't so I learned something there!
