@@ -323,3 +323,38 @@ Make one change and relax
 
 **Links:** 
 - [Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) - Added `id`s per test requirements. It was uncomfortable adding special characters in the names of the `id`s. I honestly thought you couldn't so I learned something there!
+<br>
+<br>
+<br>
+
+
+### Day 13: 24 Jan 2022
+**Yesterday recap:**
+
+Edited fCC project
+
+<br>
+
+
+**Today's plans:**
+Make one change and relax
+
+
+<br>
+
+
+**Struggles:** 
+
+Again it felt super weird to add special charaters to `href`s.
+
+
+<br>
+
+**Thoughts:**
+
+Gonna get back into JS now that I've made some progress in my fCC project.
+
+<br>
+
+**Links:** 
+- [Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) 
