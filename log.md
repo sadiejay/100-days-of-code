@@ -358,3 +358,37 @@ Gonna get back into JS now that I've made some progress in my fCC project.
 
 **Links:** 
 - [Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz) 
+
+<br>
+<br>
+<br>
+
+### Day 13: 24 Jan 2022
+**Yesterday recap:**
+
+Edited fCC project
+
+<br>
+
+
+**Today's plans:**
+
+Work on JS Cert
+Update resume
+
+
+<br>
+
+
+**Struggles:** 
+
+I'm struggling to understand how to use the length of an array in a recursive function. The profile lookup task has me stumped.
+
+<br>
+
+**Thoughts:**
+
+My pomodoro clock of choice now doesn't work. I'm struggling to find an app that'll work in the background and allow me to change up the focus/break state. I wanna do it with JS but also make my own app if I have to.
+
+<br>
+
