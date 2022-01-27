@@ -391,4 +391,41 @@ I'm struggling to understand how to use the length of an array in a recursive fu
 My pomodoro clock of choice now doesn't work. I'm struggling to find an app that'll work in the background and allow me to change up the focus/break state. I wanna do it with JS but also make my own app if I have to.
 
 <br>
+<br>
+<br>
+<br>
 
+### Day 13: 24 Jan 2022
+**Yesterday recap:**
+
+Work on JS Cert
+Update resume
+
+<br>
+
+
+**Today's plans:**
+
+Update my github readme
+
+
+<br>
+
+
+**Struggles:** 
+
+Not much today. I think I need a lil bit of a challenge to make up for the slack of the past week-ish.
+
+<br>
+
+**Thoughts:**
+
+I like doing the fCC JS activities, but I don't like that there's no interface or a way to save my code. I think I'm gonna try and build something around one of the tasks. Especially on that uses JSON data. I'm gonna take a look at [frontend mentor](frontendmentor.io) to see if I can get some design ideas/inspo.
+
+<br>
+
+**Links:** 
+- [Sadiejay repo for my github](https://github.com/sadiejay/sadiejay)
+<br>
+<br>
+<br>
