@@ -363,7 +363,7 @@ Gonna get back into JS now that I've made some progress in my fCC project.
 <br>
 <br>
 
-### Day 13: 24 Jan 2022
+### Day 14: 25 Jan 2022
 **Yesterday recap:**
 
 Edited fCC project
@@ -395,7 +395,7 @@ My pomodoro clock of choice now doesn't work. I'm struggling to find an app that
 <br>
 <br>
 
-### Day 13: 24 Jan 2022
+### Day 15: 26 Jan 2022
 **Yesterday recap:**
 
 Work on JS Cert
