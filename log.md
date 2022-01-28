@@ -429,3 +429,37 @@ I like doing the fCC JS activities, but I don't like that there's no interface o
 <br>
 <br>
 <br>
+
+### Day 16: 27 Jan 2022
+**Yesterday recap:**
+
+
+Updated github profile readme
+
+<br>
+
+
+**Today's plans:**
+
+Work on RWD Cert projects
+
+
+<br>
+
+
+**Struggles:** 
+
+I don't want to lose steam on my RWD project, but I also don't want to get too into the weeds with styling. Especially when it's not required.
+
+<br>
+
+**Thoughts:**
+
+I finished a RWD project!!! WHOO!! 1 down, 4 more to go. It's not my best design work (no design) and I need to clean up the code, but it's passing. I can breathe.
+<br>
+
+**Links:** 
+- [Technical Documentation Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/QWqoNoz)
+<br>
+<br>
+<br>
