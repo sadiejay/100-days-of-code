@@ -489,7 +489,7 @@ One change and relax
 
 **Thoughts:**
 
-
+I'm going ahead and starting the tribute page. I can always go back and add the styling to these projects.
 
 <br>
 
