@@ -463,3 +463,38 @@ I finished a RWD project!!! WHOO!! 1 down, 4 more to go. It's not my best design
 <br>
 <br>
 <br>
+
+### Day 17: 28 Jan 2022
+**Yesterday recap:**
+
+
+Work on RWD Cert projects
+
+<br>
+
+
+**Today's plans:**
+
+One change and relax
+
+
+<br>
+
+
+**Struggles:** 
+
+
+
+<br>
+
+**Thoughts:**
+
+
+
+<br>
+
+**Links:** 
+- [Tribute Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/jOaParN)
+<br>
+<br>
+<br>
