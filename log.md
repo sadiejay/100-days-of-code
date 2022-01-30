@@ -475,7 +475,8 @@ Work on RWD Cert projects
 
 **Today's plans:**
 
-One change and relax
+- One change and relax
+- JS Cert (maybe?)
 
 
 <br>
