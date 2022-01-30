@@ -499,3 +499,33 @@ I'm going ahead and starting the tribute page. I can always go back and add the 
 <br>
 <br>
 <br>
+
+### Day 18: 29 Jan 2022
+**Yesterday recap:**
+
+
+Work on RWD Cert projects
+
+<br>
+
+
+**Today's plans:**
+
+Work on RWD Cert projects
+
+
+<br>
+
+
+**Struggles:** 
+
+Keeping motivation, but I'm showing up at least.
+
+<br>
+
+
+**Links:** 
+- [Tribute Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/jOaParN)
+<br>
+<br>
+<br>
