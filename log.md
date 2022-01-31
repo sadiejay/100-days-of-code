@@ -529,3 +529,72 @@ Keeping motivation, but I'm showing up at least.
 <br>
 <br>
 <br>
+
+### Day 19: 30 Jan 2022
+**Yesterday recap:**
+
+
+Work on RWD Cert projects
+
+<br>
+
+
+**Today's plans:**
+
+JS cert
+Code Assessment for job application
+Prep job materials
+
+
+<br>
+
+
+**Struggles:** 
+
+Not being able to figure out the code assesment was a lil bit of a blow to my confidence.
+
+<br>
+
+**Thoughts:**
+
+I'm still glad for the expereince. It was the best code assessment I've encountered. I can actually understand how data structures fit in the real world. I'm a lil more interested in learning how to extract info from JSON. The JS cert was a step in the right direction for that.
+
+<br>
+<br>
+<br>
+<br>
+
+### Day 20: 31 Jan 2022
+**Yesterday recap:**
+
+Code Assessment for job application
+Prep job materials
+
+<br>
+
+
+**Today's plans:**
+
+RWD project - tribute page
+
+
+<br>
+
+
+**Struggles:** 
+
+Darn it. I missed pushing to github yesterday. And I did a ton of coding yesterday in fCC!!
+
+<br>
+
+**Thoughts:**
+
+Next time I notice I didn't commit for the day, I'm just gonna stop and do something. Lesson learned.
+
+<br>
+
+**Links:** 
+- [Tribute Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/jOaParN) - building out the skeleton one test at a time.
+<br>
+<br>
+<br>
