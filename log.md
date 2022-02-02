@@ -624,7 +624,7 @@ JS cert
 
 **Thoughts:**
 
-Juts plugging along with JS and the tribute page. I don't like building without a design so this is a challenge for me. I"m going to mimic the fCC design and just leave it at that. I'm missing the [frontend mentor](frontendmentor.io) projects now. On the brightside.  Ithink with what I've learned in th JS course I can build out some of the logic to some basic game or calculator.
+Just plugging along with JS and the tribute page. I don't like building without a design so this is a challenge for me. I"m going to mimic the fCC design and just leave it at that. I'm missing the [frontend mentor](frontendmentor.io) projects now. On the brightside.  Ithink with what I've learned in th JS course I can build out some of the logic to some basic game or calculator.
 
 
 <br>
