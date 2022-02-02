@@ -634,3 +634,40 @@ Juts plugging along with JS and the tribute page. I don't like building without 
 <br>
 <br>
 <br>
+
+
+### Day 22: 2 Feb 2022
+**Yesterday recap:**
+
+RWD project - tribute page
+
+<br>
+
+
+**Today's plans:**
+
+
+RWD project - product landing page
+
+
+
+<br>
+
+
+**Struggles:** 
+I'm pausing on the tribute page because I'm struggling on ideas of who to pay tribute to!! Also, I'd need to figure out a way to get the src right.
+
+
+<br>
+
+**Thoughts:**
+
+I'm not going for an hour of coding. I'm just coding a lil bit and keeping it pushing. I really need to start building out a JS project to solidify what I'm learning.
+
+<br>
+
+**Links:** 
+- [Product Landing Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/mdqPKvE) - building out the skeleton one test at a time.
+<br>
+<br>
+<br>
