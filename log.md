@@ -671,3 +671,41 @@ I'm not going for an hour of coding. I'm just coding a lil bit and keeping it pu
 <br>
 <br>
 <br>
+
+### Day 23: 3 Feb 2022
+**Yesterday recap:**
+
+RWD project - tribute page
+
+<br>
+
+
+**Today's plans:**
+
+Apply to jobs
+JS cert
+RWD prject
+Draft #100daysofcode update
+
+
+<br>
+
+
+**Struggles:** 
+I started applying for jobs heavy on the 1st and I can feel my time management skills being tested. I'm setting my expectations for coding to be something like any lil bit I can do or learn, and I'll be happy.
+
+
+<br>
+
+**Thoughts:**
+
+I need to do an update and rehash out what I'd like to get out of #100daysofcode. I think I want to define some projects to build out but we'll see haha
+
+
+<br>
+
+**Links:** 
+
+<br>
+<br>
+<br>
