@@ -19,12 +19,12 @@
 
 **Yesterday recap:** 
 
-I did a whole bunch of set up for #100daysofcode.
+- I did a whole bunch of set up for #100daysofcode.
 Including:
-- dev.to posts
-- checking out the site
+    - dev.to posts
+    - checking out the site
 
-I also worked on the freeCodeCamp Javascript Cert and RWD cert
+- I also worked on the freeCodeCamp Javascript Cert and RWD cert
 Minor changes to my portfolio site
 
 <br>
@@ -53,21 +53,21 @@ Trying not to overwhelm myself. I need to pace myself!!
 ### Day 5: 16 Jan 2022
 **Yesterday recap:**
 
-A whole bunch of set up for #100daysofcode. Including:
+- A whole bunch of set up for #100daysofcode. Including:
     - dev.to post
     - forking thAlgorithms and Data Structuresis repo
-I also worked on the freeCodeCamp JS Algo and D.S Cert
-Commented on Rammina's #100daysofcode post.
+- I also worked on the freeCodeCamp JS Algo and D.S Cert
+- Commented on Rammina's #100daysofcode post.
 
 <br>
 
 
 **Today's plans:**
 
-Work on the JS Cert with fCC
-Start RWD project for fCC
-Check out the #100daysofcode tag on dev.to
-Play around with my open source issue
+- Work on the JS Cert with fCC
+- Start RWD project for fCC
+- Check out the #100daysofcode tag on dev.to
+- Play around with my open source issue
 
 <br>
 
@@ -89,21 +89,21 @@ JS is kicking my behind. The switch operator lesson in the cert made no sense. I
 ### Day 6: 17 Jan 2022
 **Yesterday recap:**
 
-Started on fCC RWD project
-Tinkered with open source project in browser
-Commented on fellow #100daysofcode post.
-Questioned whether or not I wanted to dive into JS like this.
+- Started on fCC RWD project
+- Tinkered with open source project in browser
+- Commented on fellow #100daysofcode post.
+- Questioned whether or not I wanted to dive into JS like this.
 
 <br>
 
 
 **Today's plans:**
 
-Work on the JS Cert with fCC
+- Work on the JS Cert with fCC
     - be ready for week 2 of bootcamp
-Complete one RWD project for fCC
-Check out the #100daysofcode tag on dev.to
-Play around with my open source issue
+- Complete one RWD project for fCC
+- Check out the #100daysofcode tag on dev.to
+-Play around with my open source issue
 
 <br>
 
@@ -128,7 +128,7 @@ This is a roller coaster. I'm struggling with objects again lol I'm gonna give l
 ### Day 7: 18 Jan 2022
 **Yesterday recap:**
 
-Struggled with fCC JS task
+- Struggled with fCC JS task
     - made it to week 2 tho!
 
 <br>
@@ -136,10 +136,10 @@ Struggled with fCC JS task
 
 **Today's plans:**
 
-Comment on my open source issue
-Work on the JS Cert with fCC (but not all day!)
-Make progress on one RWD project for fCC
-Check out the #100daysofcode tag on dev.to
+- Comment on my open source issue
+- Work on the JS Cert with fCC (but not all day!)
+- Make progress on one RWD project for fCC
+- Check out the #100daysofcode tag on dev.to
 
 <br>
 
@@ -163,18 +163,18 @@ I took it easy today. After yesterday I could use a break from going so hard in 
 ### Day 8: 19 Jan 2022
 **Yesterday recap:**
 
-Completed fCC task that gave me trouble
-Tried to tinked on open source issue, but it was experiencing a bug
+- Completed fCC task that gave me trouble
+- Tried to tinker on open source issue, but it was experiencing a bug
 
 <br>
 
 
 **Today's plans:**
 
-Comment on my open source issue
-Change og info portfolio site to show different fav icon/sm photo
-Figure out how to get commits into my contribution graph
-Draft up a couple of DEV.to articles
+- Comment on my open source issue
+- Change og info portfolio site to show different fav icon/sm photo
+- Figure out how to get commits into my contribution graph
+- Draft up a couple of DEV.to articles
     - my favorite keyboard shortcuts
     - my hacktoberfest experience
 
@@ -198,17 +198,17 @@ I'm realizing that my experience contributing to open source projects was really
 ### Day 9: 20 Jan 2022
 **Yesterday recap:**
 
-Commented on my open source issue
-Updated my portfolio
+- Commented on my open source issue
+- Updated my portfolio
 
 <br>
 
 
 **Today's plans:**
 
-Test on my open source issue
-Figure out how to get commits into my contribution graph
-Work on JS cert
+- Test on my open source issue
+- Figure out how to get commits into my contribution graph
+- Work on JS cert
 
 
 <br>
@@ -230,16 +230,16 @@ I've made it to loops in my JS cert and I'm playing around with `push` / `unshif
 ### Day 10: 21 Jan 2022
 **Yesterday recap:**
 
-Test on my open source issue
-Figure out how to get commits into my contribution graph
-Work on JS cert
+- Test on my open source issue
+- Figure out how to get commits into my contribution graph
+- Work on JS cert
 
 <br>
 
 
 **Today's plans:**
 
-Talk to someone in my network about their role and job applying experience.
+- Talk to someone in my network about their role and job applying experience.
 
 
 
@@ -262,13 +262,14 @@ I was really happy to have had talked with a dev in my network. I'm really inspi
 ### Day 11: 22 Jan 2022
 **Yesterday recap:**
 
-Reached out to dev in my network
-Work on JS cert
+- Reached out to dev in my network
+- Work on JS cert
 
 <br>
 
 
 **Today's plans:**
+
 Make one change and relax
 
 
@@ -305,6 +306,7 @@ Updated description on portfolio
 
 
 **Today's plans:**
+
 Make one change and relax
 
 
@@ -373,8 +375,8 @@ Edited fCC project
 
 **Today's plans:**
 
-Work on JS Cert
-Update resume
+- Work on JS Cert
+- Update resume
 
 
 <br>
@@ -534,16 +536,16 @@ Keeping motivation, but I'm showing up at least.
 **Yesterday recap:**
 
 
-Work on RWD Cert projects
+- Work on RWD Cert projects
 
 <br>
 
 
 **Today's plans:**
 
-JS cert
-Code Assessment for job application
-Prep job materials
+- JS cert
+- Code Assessment for job application
+- Prep job materials
 
 
 <br>
@@ -567,8 +569,8 @@ I'm still glad for the expereince. It was the best code assessment I've encounte
 ### Day 20: 31 Jan 2022
 **Yesterday recap:**
 
-Code Assessment for job application
-Prep job materials
+- Code Assessment for job application
+- Prep job materials
 
 <br>
 
