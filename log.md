@@ -748,3 +748,40 @@ I'm on to regex now and I think I'm getting the hang of it, but the random chara
 <br>
 <br>
 <br>
+
+### Day 25: 5 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- JS cert
+- Draft and publish #100daysofcode update
+
+
+<br>
+
+
+**Struggles:**
+
+I'm behind on my bootcamp. And I'm also worried at all the JS knowledge is disappering right before my eyes. 
+
+
+<br>
+
+**Thoughts:**
+
+I'm a lil behind on my JS bootcamp. Just about a week and I haven't attempted any of the projects, but I'm thinking I'll work on it tomorrow. Today I haven't been in the best mood, I think writing a retrospective of my 25 days will be a nice break.
+
+
+<br>
+
+**Links:** 
+
+<br>
+<br>
+<br>
