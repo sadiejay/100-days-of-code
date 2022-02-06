@@ -770,3 +770,37 @@ I'm a lil behind on my JS bootcamp. Just about a week and I haven't attempted an
 <br>
 <br>
 <br>
+
+### Day 26: 6 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+- Draft and publish #100daysofcode update
+<br>
+
+
+**Today's plans:**
+
+- JS cert
+
+<br>
+
+
+**Struggles:**
+
+
+
+<br>
+
+**Thoughts:**
+
+Not feeling the best today. I finished the regrex section of the JS cert and was thinking to start a project. But, I'm going to relax a bit and see how that goes for me.
+
+<br>
+
+**Links:** 
+
+- [Day 25 Check-in post](https://dev.to/sadiejay/day-25-check-in-100-days-of-code-1ef3) - Here's the finished post of my first 25 days!
+<br>
+<br>
+<br>
