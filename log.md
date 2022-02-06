@@ -705,33 +705,22 @@ I need to do an update and rehash out what I'd like to get out of #100daysofcode
 
 
 <br>
-
-**Links:** 
-
-<br>
 <br>
 <br>
 
 ### Day 24: 4 Feb 2022
 **Yesterday recap:**
 
-JS Cert
-Applying to jobs
+- JS Cert
+- Applying to jobs
 
 <br>
 
 
 **Today's plans:**
 
-JS cert
-Draft #100daysofcode update
-
-
-<br>
-
-
-**Struggles:** 
-
+- JS cert
+- Draft #100daysofcode update
 
 
 <br>
@@ -739,11 +728,6 @@ Draft #100daysofcode update
 **Thoughts:**
 
 I'm on to regex now and I think I'm getting the hang of it, but the random charater flags is going to be tricky. I wonder if there's like a flashcard / game to help getting use to the syntax in a fun way.
-
-
-<br>
-
-**Links:** 
 
 <br>
 <br>
