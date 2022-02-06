@@ -766,6 +766,7 @@ I'm a lil behind on my JS bootcamp. Just about a week and I haven't attempted an
 
 **Links:** 
 
+- [Proper Way to Make HTML Nested List](https://stackoverflow.com/questions/5899337/proper-way-to-make-html-nested-list) - Strange but I didn't realize or maybe I forgot that in order to nest list, the ul/ol must be inside the li tag? Reminder that it's always good to review the basics!
 <br>
 <br>
 <br>
