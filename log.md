@@ -804,3 +804,38 @@ Not feeling the best today. I finished the regrex section of the JS cert and was
 <br>
 <br>
 <br>
+
+### Day 27: 7 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- RWD project
+
+
+<br>
+
+
+**Struggles:**
+
+
+
+<br>
+
+**Thoughts:**
+
+Not feeling the best today. I finished the regrex section of the JS cert and was thinking to start a project. But, I'm going to relax a bit and see how that goes for me.
+
+<br>
+
+**Links:** 
+
+- [Product Landing Page for fCC RWD Cert](https://codepen.io/sadiejay/pen/mdqPKvE) - I think I know what the content of the page will be.
+<br>
+<br>
+<br>
