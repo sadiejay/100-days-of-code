@@ -821,17 +821,6 @@ Not feeling the best today. I finished the regrex section of the JS cert and was
 <br>
 
 
-**Struggles:**
-
-
-
-<br>
-
-**Thoughts:**
-
-Not feeling the best today. I finished the regrex section of the JS cert and was thinking to start a project. But, I'm going to relax a bit and see how that goes for me.
-
-<br>
 
 **Links:** 
 
@@ -850,7 +839,8 @@ Not feeling the best today. I finished the regrex section of the JS cert and was
 
 **Today's plans:**
 
-- 
+- Applying to jobs
+- JS cert
 
 
 <br>
@@ -858,14 +848,18 @@ Not feeling the best today. I finished the regrex section of the JS cert and was
 
 **Struggles:**
 
-
+I've just been applying to jobs nonstop. I haven't coding as much as I wanted. Or really done anything other than job stuff.
 
 <br>
 
 **Thoughts:**
 
+I thought of the idea of creating an email finder. I think a simple project would be to create a form that takes the first and last and company domain name. Then using regex create 3-5 possible emails from the input. Something like: 
+- ```{first}.{last}@company``` 
+- ```{f}{last}@company```
+- ```{first}{last}@company```
 
-
+Then the next step would be to figure out how to get the emails verified and return the one that's the highest most likely match.
 <br>
 
 **Links:** 
