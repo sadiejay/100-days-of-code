@@ -839,3 +839,38 @@ Not feeling the best today. I finished the regrex section of the JS cert and was
 <br>
 <br>
 <br>
+
+### Day 28: 8 Feb 2022
+**Yesterday recap:**
+
+- RWD project
+
+<br>
+
+
+**Today's plans:**
+
+- 
+
+
+<br>
+
+
+**Struggles:**
+
+
+
+<br>
+
+**Thoughts:**
+
+
+
+<br>
+
+**Links:** 
+
+
+<br>
+<br>
+<br>
