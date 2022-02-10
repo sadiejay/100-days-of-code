@@ -868,3 +868,39 @@ Then the next step would be to figure out how to get the emails verified and ret
 <br>
 <br>
 <br>
+
+### Day 29: 9 Feb 2022
+**Yesterday recap:**
+
+- Applying to jobs
+- JS cert
+
+<br>
+
+
+**Today's plans:**
+
+- Applying to jobs
+- JS cert
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing health, rest, and completing this daily task
+
+<br>
+
+**Thoughts:**
+
+I feel awful today. I haven't slept much at all today and had to cancel everything and keep a watch on me. It's evening and I'm feeling better than I was 12 hours ago, so I may just do one JS cert task and call it a day.
+<br>
+
+**Links:** 
+
+
+<br>
+<br>
+<br>
