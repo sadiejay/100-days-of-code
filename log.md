@@ -904,3 +904,44 @@ I feel awful today. I haven't slept much at all today and had to cancel everythi
 <br>
 <br>
 <br>
+
+### Day 30: 10 Feb 2022
+**Yesterday recap:**
+
+- Applying to jobs
+- JS cert
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+- JS cert
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing health, rest, and completing this daily task
+
+<br>
+
+**Thoughts:**
+
+I'm feeling much better today thankfully. Still not sure if I'm out of the weeds just yet, but I'm hopeful.
+
+I started my email generator project today. Thinking more about it I'm kinda like, "how am I going to do this?"
+
+I'm writing each function out separtely, but I'm not sure how I'm going to get them to chain together.
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator) - I hate not having some design for it, but I'm gonna worry about making it work before anything else.
+
+<br>
+<br>
+<br>
