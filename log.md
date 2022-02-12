@@ -945,3 +945,40 @@ I'm writing each function out separtely, but I'm not sure how I'm going to get t
 <br>
 <br>
 <br>
+
+### Day 30: 10 Feb 2022
+**Yesterday recap:**
+
+- Email Generator
+- JS cert
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing health, rest, and completing this daily task
+
+<br>
+
+**Thoughts:**
+
+I'm trying to write out a function that'll log each of the inputs. I think I know how I want to do that using `var.value` then either creating an array or just apply regex? I'm not sure, but I'll figure it out.
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator) 
+- [How to Plan and Build Programming Projects](https://www.peterlunch.com/blog/how-to-plan-and-build-a-programming-project) - I read this today and thought it was super helpful for breaking down how to tackle personal projects that you may not have a road map for figuring out.
+
+<br>
+<br>
+<br>
