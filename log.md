@@ -982,3 +982,44 @@ I'm trying to write out a function that'll log each of the inputs. I think I kno
 <br>
 <br>
 <br>
+
+### Day 31: 11 Feb 2022
+**Yesterday recap:**
+
+- Email Generator
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing health, rest, and completing this daily task
+
+<br>
+
+**Thoughts:**
+
+Well I'm amazed that I got the function to log the input and push to an array. I'm now wanting to create key value pairs, somehow. Naming the index, so instead of:
+>    `0: firstNameValue`
+
+it would look something like:
+> `firstNameInput: firstNameValue`
+
+I'm also wanting a more elegant solution for going through the inputs, like maybe using a do while or for each loop? Idk. But I think there's something I could other than list each input out.
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator) 
+- [Python Tutor](https://pythontutor.com/visualize.html) - I couldn't use it how I wanted today, but this site is super helpful for visualizing how data flows in your code.
+
+<br>
+<br>
+<br>
