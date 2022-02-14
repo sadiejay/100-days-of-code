@@ -1023,3 +1023,40 @@ I'm also wanting a more elegant solution for going through the inputs, like mayb
 <br>
 <br>
 <br>
+
+### Day 32: 12 Feb 2022
+**Yesterday recap:**
+
+- Email Generator
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing health, rest, and completing this daily task
+
+<br>
+
+**Thoughts:**
+
+Ok So! I've gotten a function to show `first@domain` but! It only works with the log. Whenever I comment out the log it doesn't show on the page :(
+
+I think it has something to do with the `preventDefault` that I have on the submit click event, not allowing for the output message to show.
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator) - Can't wait to add some CSS
+
+<br>
+<br>
+<br>
