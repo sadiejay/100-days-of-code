@@ -946,7 +946,7 @@ I'm writing each function out separtely, but I'm not sure how I'm going to get t
 <br>
 <br>
 
-### Day 30: 10 Feb 2022
+### Day 31: 11 Feb 2022
 **Yesterday recap:**
 
 - Email Generator
@@ -983,7 +983,7 @@ I'm trying to write out a function that'll log each of the inputs. I think I kno
 <br>
 <br>
 
-### Day 31: 11 Feb 2022
+### Day 32: 12 Feb 2022
 **Yesterday recap:**
 
 - Email Generator
@@ -1024,7 +1024,7 @@ I'm also wanting a more elegant solution for going through the inputs, like mayb
 <br>
 <br>
 
-### Day 32: 12 Feb 2022
+### Day 33: 13 Feb 2022
 **Yesterday recap:**
 
 - Email Generator
