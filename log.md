@@ -1060,3 +1060,38 @@ I think it has something to do with the `preventDefault` that I have on the subm
 <br>
 <br>
 <br>
+
+### Day 34: 14 Feb 2022
+**Yesterday recap:**
+
+- Email Generator
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing health, rest, and completing this daily task
+
+<br>
+
+**Thoughts:**
+
+Doing on change and relaxing. Enjoying Valentine's Day.
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator) - Can't wait to add some CSS
+
+<br>
+<br>
+<br>
