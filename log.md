@@ -1095,3 +1095,33 @@ Doing on change and relaxing. Enjoying Valentine's Day.
 <br>
 <br>
 <br>
+
+### Day 35: 15 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to have a life and code and apply for jobs.
+
+<br>
+
+**Thoughts:**
+
+I've fallen off with my JS cert tasks. I'm glad to be working on it again, becuse it's giving me some ideas for the email generator.
+
+<br>
+<br>
+<br>
