@@ -1125,3 +1125,41 @@ I've fallen off with my JS cert tasks. I'm glad to be working on it again, becus
 <br>
 <br>
 <br>
+
+### Day 36: 16 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to have a life and code and apply for jobs.
+
+I'm getting a lil stuck on how to get the mulitple outputs to show up using `.innerText`? Maybe I'll create a p tags for each output? That sounds like something I could be able to do with JS.
+
+<br>
+
+**Thoughts:**
+
+Figured out another function!! Using temperate literals is the way to go haha 
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+
+<br>
+<br>
+<br>
