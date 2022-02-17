@@ -1163,3 +1163,56 @@ Figured out another function!! Using temperate literals is the way to go haha
 <br>
 <br>
 <br>
+
+### Day 37: 17 Feb 2022
+**Yesterday recap:**
+
+- Email Generator
+
+<br>
+
+
+**Today's plans:**
+
+- Open Source Contribution (yay!)
+
+
+<br>
+
+
+**Struggles:**
+
+I can't figure out how to make what was suggested to work. I'm trying to make a footer stick to the bottom and these are the changes I want to make:
+
+```css
+html,
+body {
+    height: 100%;
+}
+ /*container div*/
+.__next{
+  height: 100%;
+  min-height: 100%;
+  position: relative;
+}
+/*footer*/
+.makeStyles-root-121{
+    min-height: 300px;
+    /*(min-height because it's dynamic not hard height defined) */
+    position: absolute;
+    /* toggling the posistion sometimes makes things better sometimes it does make a difference */
+    bottom: 0;
+}
+```
+
+
+It looks great until devices are in landscape mode with more content :(
+<br>
+
+**Thoughts:**
+
+I'm glad to have gotten back in touch with the maintainers of my project. That's been on my head for a while.
+
+<br>
+<br>
+<br>
