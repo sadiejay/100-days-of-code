@@ -1216,3 +1216,33 @@ I'm glad to have gotten back in touch with the maintainers of my project. That's
 <br>
 <br>
 <br>
+
+### Day 38: 18 Feb 2022
+**Yesterday recap:**
+
+- Open Source Contribution
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Just trying to balance life and code.
+
+<br>
+
+**Thoughts:**
+
+Reminding myself that I don't have to do the most. Just what I can.
+
+<br>
+<br>
+<br>
