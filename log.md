@@ -1246,3 +1246,33 @@ Reminding myself that I don't have to do the most. Just what I can.
 <br>
 <br>
 <br>
+
+### Day 39: 19 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Just trying to balance life and code.
+
+<br>
+
+**Thoughts:**
+
+The light is flickering. It's hard to stay motivated. I think I'll read some dev.to posts of others doing the 100days challenge. Help me recontextualize my experience.
+
+<br>
+<br>
+<br>
