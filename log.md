@@ -1276,3 +1276,33 @@ The light is flickering. It's hard to stay motivated. I think I'll read some dev
 <br>
 <br>
 <br>
+
+### Day 39: 19 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Just trying to balance life and code.
+
+<br>
+
+**Thoughts:**
+
+Same as yesterday basically. I"m stuck on a task with `splice()` and don't really feel like fooling with it right now.
+
+<br>
+<br>
+<br>
