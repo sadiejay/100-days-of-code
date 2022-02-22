@@ -1306,3 +1306,33 @@ Same as yesterday basically. I"m stuck on a task with `splice()` and don't reall
 <br>
 <br>
 <br>
+
+### Day 41: 21 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Just trying to balance life and code.
+
+<br>
+
+**Thoughts:**
+
+I needed this semi-break. I'll be back fresh tomorrow working on my open source contribution and my email generator!
+
+<br>
+<br>
+<br>
