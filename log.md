@@ -1277,7 +1277,7 @@ The light is flickering. It's hard to stay motivated. I think I'll read some dev
 <br>
 <br>
 
-### Day 39: 19 Feb 2022
+### Day 40: 20 Feb 2022
 **Yesterday recap:**
 
 - JS Cert
