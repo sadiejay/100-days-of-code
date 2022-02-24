@@ -1336,3 +1336,65 @@ I needed this semi-break. I'll be back fresh tomorrow working on my open source 
 <br>
 <br>
 <br>
+
+### Day 42: 22 Feb 2022
+**Yesterday recap:**
+
+- JS Cert
+
+<br>
+
+
+**Today's plans:**
+
+- Tackle Take Home Project
+- Open Source Project (was down again)
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to come to terms that I'm struggling with this full-stack take home challenge. I couldn't understand what to google to even get me on the a track.
+
+<br>
+
+**Thoughts:**
+
+I'm trying not to be discouraged and take it as a learning experience, but it's hard to disapoint others.
+
+<br>
+<br>
+<br>
+
+### Day 43: 23 Feb 2022
+**Yesterday recap:**
+
+- Tackle Take Home Project
+- Open Source Project (was down again)
+
+<br>
+
+
+**Today's plans:**
+
+- Tackle Take Home Project
+
+
+<br>
+
+
+**Struggles:**
+
+Avoiding this take home project because it's overwheleming to me. I don't think I can do it and I'm struggling with even beginning when I know I'm going to fail.
+
+<br>
+
+**Thoughts:**
+
+I need to try or either go to sleep.
+
+<br>
+<br>
+<br>
