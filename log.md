@@ -1398,3 +1398,64 @@ I need to try or either go to sleep.
 <br>
 <br>
 <br>
+
+### Day 43: 23 Feb 2022
+**Yesterday recap:**
+
+- Tackle Take Home Project
+
+<br>
+
+
+**Today's plans:**
+
+- Tackle Take Home Project
+
+
+<br>
+
+
+**Struggles:**
+
+Stil avoidant but I got some very encouraging words from my Virtual Coffee community.
+
+<br>
+
+**Thoughts:**
+
+I need to try.
+
+<br>
+<br>
+<br>
+
+### Day 45: 25 Feb 2022
+**Yesterday recap:**
+
+- Tackle Take Home Project
+
+
+<br>
+
+
+**Today's plans:**
+
+- Coderbyte assessment
+
+
+<br>
+
+
+**Struggles:**
+
+Still struggling with the fear of not being "good enough" 
+
+<br>
+
+**Thoughts:**
+
+I had an assessment that wanted a function that had a rating system between 0 - 5 with .5 increments. For every 1 log full and for the half log "half" and if there were less than 5 items then log "empty." I only had an hour to figure it out. They didn't want an array which confused me, but I almost got it and was tinkering when time ran out. I was surprised that I would get as far as I did. But I didn't like not being able to leave and save my work to check out the other question. I never got to see it :(
+
+<br>
+<br>
+<br>
