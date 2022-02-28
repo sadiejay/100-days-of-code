@@ -1495,3 +1495,39 @@ I'm just doing what I can. Helping my partner move and I'm not stressing about d
 <br>
 <br>
 <br>
+
+### Day 47: 27 Feb 2022
+**Yesterday recap:**
+
+- Github profile README
+
+
+<br>
+
+
+**Today's plans:**
+
+- JS email generator
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing coding time and having a life
+
+<br>
+
+**Thoughts:**
+
+Like yesterday, just doing what I can. I can't wait to get the email generator going.
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+<br>
+<br>
+<br>
