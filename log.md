@@ -1459,3 +1459,39 @@ I had an assessment that wanted a function that had a rating system between 0 - 
 <br>
 <br>
 <br>
+
+### Day 46: 26 Feb 2022
+**Yesterday recap:**
+
+- Coderbyte assessment
+
+
+<br>
+
+
+**Today's plans:**
+
+- Github profile README
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing coding time and having a life
+
+<br>
+
+**Thoughts:**
+
+I'm just doing what I can. Helping my partner move and I'm not stressing about doing the most today.
+
+<br>
+
+**Links:** 
+- [Github Profile README](https://github.com/sadiejay/sadiejay)
+
+<br>
+<br>
+<br>
