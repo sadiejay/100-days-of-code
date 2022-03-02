@@ -1531,3 +1531,39 @@ Like yesterday, just doing what I can. I can't wait to get the email generator g
 <br>
 <br>
 <br>
+
+### Day 48: 28 Feb 2022
+**Yesterday recap:**
+
+- JS email generator
+
+
+<br>
+
+
+**Today's plans:**
+
+- Coding assessment
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing coding time and having a life
+
+<br>
+
+**Thoughts:**
+
+I'm mad I missed posting to my log because I had a code assessment with toggl. I was using my js file for my email generator to check my answers and the code haha
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+<br>
+<br>
+<br>
