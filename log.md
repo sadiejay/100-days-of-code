@@ -1567,3 +1567,34 @@ I'm mad I missed posting to my log because I had a code assessment with toggl. I
 <br>
 <br>
 <br>
+
+### Day 49: 1 Mar 2022
+**Yesterday recap:**
+
+- Coding assessment
+
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing coding time and having a life
+
+<br>
+
+**Thoughts:**
+
+I can't believe I'm already almost halfway with the #100day challenge! I'll put a post out soon on my dev.to as a reflection/look ahead.
+
+<br>
+<br>
+<br>
