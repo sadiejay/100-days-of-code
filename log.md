@@ -1598,3 +1598,40 @@ I can't believe I'm already almost halfway with the #100day challenge! I'll put 
 <br>
 <br>
 <br>
+
+### Day 50: 2 Mar 2022
+**Yesterday recap:**
+
+- JS Cert
+
+
+<br>
+
+
+**Today's plans:**
+
+- Email generator
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing coding time and having a life
+
+<br>
+
+**Thoughts:**
+
+Amazed that it's been 50 days. I need complete a project or two soon to feel accomplished. My email generator is coming along. I need to figure out why the functions themselves are logging and not the function with given parameters.
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+
+<br>
+<br>
+<br>
