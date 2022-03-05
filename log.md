@@ -1635,3 +1635,65 @@ Amazed that it's been 50 days. I need complete a project or two soon to feel acc
 <br>
 <br>
 <br>
+
+### Day 51: 3 Mar 2022
+**Yesterday recap:**
+
+- Email generator
+
+
+<br>
+
+
+**Today's plans:**
+
+- JS
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing coding time and having a life
+
+<br>
+
+**Thoughts:**
+
+Still need to reflect. It's hard for me to do so with a daily challenge. I need to incorporate a scheduled day for thinking and not just doing.
+
+<br>
+<br>
+<br>
+
+### Day 52: 4 Mar 2022
+**Yesterday recap:**
+
+- JS Cert
+
+
+<br>
+
+
+**Today's plans:**
+
+- JS Cert
+
+
+<br>
+
+
+**Struggles:**
+
+Balancing coding time and having a life
+
+<br>
+
+**Thoughts:**
+No thoughts — just doing!
+
+
+<br>
+<br>
+<br>
