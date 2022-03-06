@@ -1697,3 +1697,40 @@ No thoughts — just doing!
 <br>
 <br>
 <br>
+
+### Day 52: 4 Mar 2022
+**Yesterday recap:**
+
+- JS Cert
+
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+I can't figure out how to get slice to extract all but the first character of a string.
+
+<br>
+
+**Thoughts:**
+I need to clean up the logic soon but so far it's ok. I kind of have a plan for how I want to combine all of the pieces in a huge function that'll take 3 parameters and then run through all of the combos.
+
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+
+<br>
+<br>
+<br>
