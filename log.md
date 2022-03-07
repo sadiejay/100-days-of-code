@@ -1834,7 +1834,8 @@ I need to pair program more often. I got this far with someone in my Virtual Cof
 <br>
 
 **Links:** 
-- [Gitpod exposes emails](https://github.com/gitpod-io/gitpod/issues/387) - be aware!! You will need to run `git config --global user.email "ID+username@users.noreply.github.com"` for every project. I'm in such a bind right now. 
+- [Gitpod exposes emails](https://github.com/gitpod-io/gitpod/issues/387) - be aware!! You will need to run `git config --global user.email "ID+username@users.noreply.github.com"` for every project. I'm in such a bind right now.
+- [Styling Global Components in Next JS](https://stackoverflow.com/questions/51905803/next-js-how-to-change-css-of-root-div-next-on-specific-page/53640085#53640085)
 - [Virtual Coffee](https://virtualcoffee.io/)
 
 <br>
