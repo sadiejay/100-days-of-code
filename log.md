@@ -1734,3 +1734,109 @@ I need to clean up the logic soon but so far it's ok. I kind of have a plan for 
 <br>
 <br>
 <br>
+
+### Day 53: 5 Mar 2022
+**Yesterday recap:**
+
+- Email Generator
+
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+The logic is killing me.
+
+<br>
+
+**Thoughts:**
+I need to clean up the logic soon but so far it's ok. I kind of have a plan for how I want to combine all of the pieces in a huge function that'll take 3 parameters and then run through all of the combos.
+
+
+<br>
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+
+<br>
+<br>
+<br>
+
+### Day 54: 6 Mar 2022
+**Yesterday recap:**
+
+- JS Cert
+
+
+<br>
+
+
+**Today's plans:**
+
+- Open Source Contribution
+
+
+<br>
+
+
+**Struggles:**
+
+I can't figure out how to create a PR for this and Gitpod is a headache. I pushed some commits and now need to delete them somehow because my acutal email is being exposed.
+
+```javascript
+// in web/pages/_documents.tsx
+<body>
+          <Main />
+          <NextScript />
+          <style jsx global>{`
+            /* Adds global styles to html, body and main id*/
+            html,
+            body {
+              height: 100%;
+            }
+            #__next {
+              height: 100%;
+              min-height: 100%;
+              position: relative;
+            }
+          `}</style>
+        </body>
+
+// in /web/componenets/Footer/Footer.tsx
+const useStyles = makeStyles((theme) => ({
+  root: {
+    display: "flex",
+    flexDirection: "column",
+    width: "100%",
+    minHeight: "300px",
+    // (min-height because it's dynamic not hard height defined)
+    position: "absolute",
+    // toggling the posistion sometimes makes things better, sometimes it does not make a difference
+    bottom: "0",
+  },
+```
+
+<br>
+
+**Thoughts:**
+I need to pair program more often. I got this far with someone in my Virtual Coffee Community and I've learned so much about `.tsx` and `.jsx` in those couple of hours.
+
+<br>
+
+**Links:** 
+- [Gitpod exposes emails](https://github.com/gitpod-io/gitpod/issues/387) - be aware!! You will need to run `git config --global user.email "ID+username@users.noreply.github.com"` for every project. I'm in such a bind right now. 
+- [Virtual Coffee](https://virtualcoffee.io/)
+
+<br>
+<br>
+<br>
