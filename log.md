@@ -1841,3 +1841,34 @@ I need to pair program more often. I got this far with someone in my Virtual Cof
 <br>
 <br>
 <br>
+
+### Day 54: 6 Mar 2022
+**Yesterday recap:**
+
+- Open Sourece Contribution
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+I just got 3 take home tests today. It's def a good problem to have, not only so I get to exercise my skills, I also get to be in the place and work through the mental blocks I have with these things. I'm not losing whatever happens. That's what I'm trying to tell myself.
+
+
+<br>
+<br>
+<br>
