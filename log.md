@@ -1872,3 +1872,37 @@ I just got 3 take home tests today. It's def a good problem to have, not only so
 <br>
 <br>
 <br>
+
+### Day 55: 7 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+I roughly completed the take home for the company I'm most excited for. I'm gonna polish it up a bit tomorrow and send it out. It's due Thursday. I'm planning to give half a day to another and the weekend to the final test.
+
+
+**Links:** 
+- [Take home](https://github.com/sadiejay/dbtlabs-take-home) 
+
+<br>
+<br>
+<br>
