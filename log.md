@@ -2009,7 +2009,7 @@ I had to reassess the take home. I was supposed to use js to dynamically build t
 <br>
 <br>
 
-### Day 59gi: 11 Mar 2022
+### Day 59: 11 Mar 2022
 **Yesterday recap:**
 
 - Take home tests
