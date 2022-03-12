@@ -1906,3 +1906,139 @@ I roughly completed the take home for the company I'm most excited for. I'm gonn
 <br>
 <br>
 <br>
+
+### Day 56: 8 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+I didn't really do much today, just thought about my take homes.
+
+
+**Links:** 
+- [Take home](https://github.com/sadiejay/dbtlabs-take-home) 
+
+<br>
+<br>
+<br>
+
+### Day 57: 9 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+I finished the take home and feel pretty good about it. I recreated the screenshot almost to the t. I even reached out an asked some questions.
+
+
+**Links:** 
+- [Take home](https://github.com/sadiejay/dbtlabs-take-home) 
+
+<br>
+<br>
+<br>
+
+### Day 58: 10 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+I had to reassess the take home. I was supposed to use js to dynamically build the site. I didn't think I could do it but I didn't run into too many difficulities. I learned a good bit too like I knew off createElement but never got to build something with it, using my own hands. I didn't get to all of the design elements, but just being able to go outside of my comfort zone and surprise myself, was a very valuable experience.
+
+
+**Links:** 
+- [Take home](https://github.com/sadiejay/dbtlabs-take-home) 
+
+<br>
+<br>
+<br>
+
+### Day 59gi: 11 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Had the round two interview going over the take home assignment. I think it went well? I was excited to be asked questions about the js aspect and while I can't say I felt confident, I at least could pick up on the questions after my memory had been jogged a bit. I need to speak more about js and get into that habit.
+
+**Links:** 
+- [Take home](https://github.com/sadiejay/dbtlabs-take-home) - Thank you again Rob and Lise!!
+
+<br>
+<br>
+<br>
