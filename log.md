@@ -2042,3 +2042,143 @@ Had the round two interview going over the take home assignment. I think it went
 <br>
 <br>
 <br>
+
+### Day 60: 12 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I peeked at the Jekyll take home and yikes lol I'm in over my head. I wish I had the bandwidth to start earlier.
+
+On the flip side, thanks to my other take home, I was able to incorporate some `createElement()` in my javascript for the email generator.
+
+**Links:** 
+- [COIL Take home](https://github.com/sadiejay/uswds-jekyll) - Thank you again Alessandra and Victoria and Meg!
+
+<br>
+<br>
+<br>
+
+### Day 61: 13 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I got the meat of the project done and I think I feel ok about what I accomplished. I think if I had more time I would have matched the design a bit closer.
+
+**Links:** 
+- [COIL Take home](https://github.com/sadiejay/uswds-jekyll) - Thank you again Alessandra and Victoria and Meg!
+
+<br>
+<br>
+<br>
+
+### Day 62: 14 Mar 2022
+**Yesterday recap:**
+
+- Take home tests
+
+
+<br>
+
+
+**Today's plans:**
+
+- Write up a README for job interview
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I was so excited about this opporunity that I create a README with all of my questions for the info session.
+
+**Links:** 
+- [Netlify Team Questions](https://github.com/sadiejay/netlify-team-questions) - Thank you again Tara and Prince!
+
+<br>
+<br>
+<br>
+
+### Day 63: 15 Mar 2022
+**Yesterday recap:**
+
+- Write up README
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home tests
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I got another take home test that's more backend focused. It would have overwhelmed me but I think I have a direction to go into now at least.
+
+**Links:** 
+These came up during the course of my day interviewing and talking with fellow devs. A couple came up twice!
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+[Staff Engineer: Leadership beyond the management track by Will Larson](https://staffeng.com/book)
+[Recurse Center](https://www.recurse.com/about)
+<br>
+<br>
+<br>
