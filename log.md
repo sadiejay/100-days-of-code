@@ -2182,3 +2182,270 @@ These came up during the course of my day interviewing and talking with fellow d
 <br>
 <br>
 <br>
+
+### Day 64: 16 Mar 2022
+**Yesterday recap:**
+
+- Write up README
+
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+
+<br>
+<br>
+<br>
+
+### Day 65: 17 Mar 2022
+**Yesterday recap:**
+
+- Email generator
+
+
+<br>
+
+
+**Today's plans:**
+
+- React practice
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I couldn't decide whether or not to start a new react project for a presentation and started a new repo with create-react-app
+
+**Links:**
+- [React Practice](https://github.com/sadiejay/react-practice) 
+
+<br>
+<br>
+<br>
+
+### Day 66: 18 Mar 2022
+**Yesterday recap:**
+
+- React practice
+
+
+<br>
+
+
+**Today's plans:**
+
+- ??
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Legit missed today I guess
+
+<br>
+<br>
+<br>
+
+### Day 67: 19 Mar 2022
+**Yesterday recap:**
+
+- Write up README
+
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I'm just doing a little by little.
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+<br>
+<br>
+<br>
+
+### Day 68: 20 Mar 2022
+**Yesterday recap:**
+
+- Email Generator
+
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Reiterating on functions one by one.
+
+**Links:** 
+
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+
+<br>
+<br>
+<br>
+
+### Day 69: 21 Mar 2022
+**Yesterday recap:**
+
+- Email Generator
+
+
+<br>
+
+
+**Today's plans:**
+
+- Email Generator
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Updating my email generator for a presentation.
+
+**Links:** 
+- [Email Generator](https://github.com/sadiejay/email-generator)
+
+
+<br>
+<br>
+<br>
+
+### Day 70: 22 Mar 2022
+**Yesterday recap:**
+
+- Email Generator
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home test
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Did a coding take home that had unclear instructions. I could parse what it was asking but only have 30 mins to execute. I'm not hopeful for the role, but it was interesting practice. I think I'm getting a lil over coding and these take homes tbh.
+
+<br>
+<br>
+<br>
+
+### Day 70: 22 Mar 2022
+**Yesterday recap:**
+
+- Take home test
+
+
+<br>
+
+
+**Today's plans:**
+
+- Updating log
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I haven't updated this in a week. It's hard to keep up now for whatever reason. I'm already over 70 days and I feel like I have very little to show for. Idk. Feeling a bit demoralized by everything.
+
+<br>
+<br>
+<br>
