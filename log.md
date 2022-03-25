@@ -2449,3 +2449,68 @@ I haven't updated this in a week. It's hard to keep up now for whatever reason. 
 <br>
 <br>
 <br>
+
+### Day 71: 23 Mar 2022
+**Yesterday recap:**
+
+- Take home test
+
+
+<br>
+
+
+**Today's plans:**
+
+- Updating log
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+
+<br>
+<br>
+<br>
+
+### Day 72: 24 Mar 2022
+**Yesterday recap:**
+
+- Updated log
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I went to my communities Thursday get together and idk I felt remotivated to make some changes to my porfolio and code a bit. I was inspired by my after VC chat to complete more projects. Especially now that I'm in the final stretches of this challenge. I need something to show and to keep from stagnating. 
+
+I think I'm going add some js to my portfolio site and make it so that my card dynamically upate, instead of hard coding them in.
+
+Might even do that for my skills list as well.
+
+<br>
+<br>
+<br>
