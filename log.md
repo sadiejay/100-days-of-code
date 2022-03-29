@@ -2514,3 +2514,34 @@ Might even do that for my skills list as well.
 <br>
 <br>
 <br>
+
+### Day 73: 28 Mar 2022
+**Yesterday recap:**
+
+- Updated log
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I didn't do anything on the weekend and I think I needed it. I needed the break from the pressure of doing _something_ for the contribution graph.
+
+<br>
+<br>
+<br>
