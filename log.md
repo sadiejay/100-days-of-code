@@ -2545,3 +2545,191 @@ I didn't do anything on the weekend and I think I needed it. I needed the break 
 <br>
 <br>
 <br>
+
+### Day 74: 29 Mar 2022
+**Yesterday recap:**
+
+- Take home
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I got to work on this take home. I'm finally making headway on this assignment. It's tough because it's for a role that I've very interested in yet just didn't have the mental capacity for it.
+
+<br>
+<br>
+<br>
+
+### Day 75: 30 Mar 2022
+**Yesterday recap:**
+
+- Take home
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I figured out the logic for part one of my take home. I had the general idea for the take home but didn't really put it into code until today and yesterday.
+
+<br>
+<br>
+<br>
+
+### Day 76: 31 Mar 2022
+**Yesterday recap:**
+
+- Take home
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I mob programmed (kinda?) with a few people and it was so intimidating but I felt like I was in good hand and wasn't ever gonna get stuck with. I had to figure out how to get a `.txt` file read by js without using node. Without their help I would have _never_ figured out what to do on my own. I want to learn more about promises and resolving async functions as they relate to the dom.
+
+<br>
+<br>
+<br>
+
+### Day 77: 1 Apr 2022
+**Yesterday recap:**
+
+- Take home
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I paired with someone in my community and I learned _so much._ I can't begin to explain the amount of growth and omg wow youu can do it moments I've had in an hour and a half!!
+
+For example I learned the `cmd` + D  and `F2`short cuts. Find patterens to not only write code but also to edit!
+
+<br>
+<br>
+<br>
+
+### Day 78: 2 Apr 2022
+**Yesterday recap:**
+
+- Take home
+
+
+<br>
+
+
+**Today's plans:**
+
+- Take home
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I forgot to create a gh-page for the take home assignment I've been working on. So I did that and updated the Readme!
+
+<br>
+<br>
+<br>
+
+### Day 79: 3 Apr 2022
+**Yesterday recap:**
+
+- Tak home assignment
+
+
+<br>
+
+
+**Today's plans:**
+
+- Update log
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Just coming in to update the logs. I can't believe I'm almost on day 80!
+
+<br>
+<br>
+<br>
