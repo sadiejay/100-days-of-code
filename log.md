@@ -2733,3 +2733,69 @@ Just coming in to update the logs. I can't believe I'm almost on day 80!
 <br>
 <br>
 <br>
+
+### Day 80: 4 Apr 2022
+**Yesterday recap:**
+
+- Update log
+
+
+<br>
+
+
+**Today's plans:**
+
+- Update log
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I worked on learning Cypress using their docs
+
+<br>
+
+**Links:**
+- [Testing Your First Application — Cypress.io](https://learn.cypress.io/testing-your-first-application)
+
+<br>
+<br>
+<br>
+
+### Day 81: 5 Apr 2022
+**Yesterday recap:**
+
+- Update log
+
+
+<br>
+
+
+**Today's plans:**
+
+- Update log
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I missed publishing the log yestrday but today I'm watching another dev debug!
+<br>
+<br>
+<br>
