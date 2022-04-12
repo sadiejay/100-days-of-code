@@ -2799,3 +2799,112 @@ I missed publishing the log yestrday but today I'm watching another dev debug!
 <br>
 <br>
 <br>
+
+### Day 82: 6 Apr 2022
+**Yesterday recap:**
+
+- Update log
+
+
+<br>
+
+
+**Today's plans:**
+
+- fCC JS bootcamp
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I worked on the fCC JS bootcamp by stating a project finally!
+I figured that I've been learning a ton recently and that I probably knew more than I gave myself credit for. It turns out, I can figure things out and solve them with a bit of help from google!
+
+
+<br>
+
+**Link:**
+- [My Solution to fCC Palindrome Checker](https://github.com/sadiejay/fcc-js-palindrome) - Palindrome repo
+<br>
+<br>
+<br>
+
+### Day 83: 7 Apr 2022
+**Yesterday recap:**
+
+- fCC JS bootcamp
+
+
+<br>
+
+
+**Today's plans:**
+
+- fCC JS bootcamp
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I completed a project finally!
+
+
+<br>
+
+**Link:**
+- [My Solution to fCC Palindrome Checker](https://github.com/sadiejay/fcc-js-palindrome) - Palindrome repo
+<br>
+<br>
+<br>
+
+### Day 84: 11 Apr 2022
+**Yesterday recap:**
+
+- fCC JS bootcamp
+
+
+<br>
+
+
+**Today's plans:**
+
+- fCC Web Dev bootcamp
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I worked on another stalled in progress project. It hard letting go of the design and just focusing on the coding. I feel a way because the design is lacking, but I really just want to code it up well then maybe come back and make it look like something later. I just want that cert!!
+
+
+<br>
+
+**Link:**
+- [My Solution to fCC Product Page](https://codepen.io/sadiejay/pen/mdqPKvE) - Product Page codepen
+<br>
+<br>
+<br>
