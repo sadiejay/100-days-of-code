@@ -2908,3 +2908,39 @@ I worked on another stalled in progress project. It hard letting go of the desig
 <br>
 <br>
 <br>
+
+### Day 85: 12 Apr 2022
+**Yesterday recap:**
+
+- fCC Web Dev bootcamp
+
+
+<br>
+
+
+**Today's plans:**
+
+- fCC Web Dev bootcamp
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Making a lil progress on this project. Maybe tomorrow I"ll sit down and finish it.
+
+
+<br>
+
+**Link:**
+- [My Solution to fCC Product Page](https://codepen.io/sadiejay/pen/mdqPKvE) - Product Page codepen
+<br>
+<br>
+<br>
