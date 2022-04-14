@@ -2944,3 +2944,34 @@ Making a lil progress on this project. Maybe tomorrow I"ll sit down and finish i
 <br>
 <br>
 <br>
+
+### Day 86: 13 Apr 2022
+**Yesterday recap:**
+
+- fCC Web Dev bootcamp
+
+
+<br>
+
+
+**Today's plans:**
+
+- Coding content
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+Today I worked on writing content about my experience job searching as an entry-level dev! No links yet but hopefully they coming.
+
+<br>
+<br>
+<br>
