@@ -2975,3 +2975,41 @@ Today I worked on writing content about my experience job searching as an entry-
 <br>
 <br>
 <br>
+
+### Day 87: 14 Apr 2022
+**Yesterday recap:**
+
+- Coding content
+
+
+<br>
+
+
+**Today's plans:**
+
+- Coding content
+- Teaming up on a project
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+
+I wrote a little more. I'm tackling an interesting problem that another dev friend came across and I want to see if I can solve it my way haha
+
+I'm tackling the JS for creating something like a progress indicator where classes are added to the previous milestones and removed as needed.
+
+<br>
+
+**Link:**
+
+[Interactive Rating Component](https://github.com/sadiejay/Interactive-rating-Component)
+<br>
+<br>
