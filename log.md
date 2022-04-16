@@ -3013,3 +3013,37 @@ I'm tackling the JS for creating something like a progress indicator where class
 [Interactive Rating Component](https://github.com/sadiejay/Interactive-rating-Component)
 <br>
 <br>
+
+### Day 88: 15 Apr 2022
+**Yesterday recap:**
+
+- Coding content
+
+
+<br>
+
+
+**Today's plans:**
+
+- Teaming up on a project
+
+
+<br>
+
+
+**Struggles:**
+
+Trying to keep my confidence and momentum with growing my skills
+
+<br>
+
+**Thoughts:**
+I'm still working on the problem, but I feel close?? Although I think embedding a do..while inside a forEach isn't the best practice lol
+
+<br>
+
+**Link:**
+
+[Interactive Rating Component](https://github.com/sadiejay/Interactive-rating-Component)
+<br>
+<br>
